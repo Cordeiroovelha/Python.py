@@ -15,5 +15,3 @@ for i in range(n):
 print()
 print("Triangulo invertido")
 print()
-
-    

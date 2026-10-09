@@ -5,9 +5,9 @@ def main():
     tempo = float(input("Digite o TEMPO da viagem .: "))
 
     velocidade = float(input("Digite a Velocidade media : "))
-	
-    distancia = velocidade * tempo;
-    litros = distancia/12;
+
+    distancia = velocidade * tempo
+    litros = distancia/12
 
     print()
     print("...............................................")
